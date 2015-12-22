@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T01:45:56.191Z'
-dateModified: '2015-12-22T01:45:07.772Z'
+datePublished: '2015-12-22T01:51:22.405Z'
+dateModified: '2015-12-22T01:51:03.354Z'
 title: Building the Pond - 1st year
 author: []
+sourcePath: _posts/2015-12-22-building-the-pond-1st-year.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-22-building-the-pond-1st-year.md
-published: true
 url: building-the-pond-1st-year/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Building the Pond - 1st year
