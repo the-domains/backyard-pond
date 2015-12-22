@@ -1,0 +1,28 @@
+name: Backyard Pond
+favicon: null
+layout_spectrum: 0.9108587689697742
+typography_spectrum: 0.20520553970709443
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8771427001338452
+  lightness: 0.9675583594944328
+  saturation: 0.18622077465988696
+  rhythmicContrast: 0.03608497721143067
+purpose: []
