@@ -1,7 +1,7 @@
 name: Backyard Pond
 favicon: null
-layout_spectrum: 0.9108587689697742
-typography_spectrum: 0.20520553970709443
+layout_spectrum: 1
+typography_spectrum: 0
 title: Backyard Pond
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8771427001338452
+    - '#fdfdfd'
+    - '#142553'
+    - '#756c39'
+    - '#bf3d59'
+    - '#fdb062'
+  brandStrength: 1
   lightness: 0.9675583594944328
-  saturation: 0.18622077465988696
-  rhythmicContrast: 0.03608497721143067
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
